@@ -1,5 +1,3 @@
-1. Introduction
-1.1. Overview
 SabiLearn is a comprehensive Learning Management System (LMS) designed to facilitate online learning and training. It empowers educators, trainers, and administrators to create, deliver, and manage courses, providing a flexible and efficient platform for both instructors and learners.
 
 1.2. Key Features
@@ -10,6 +8,7 @@ Assessment creation and grading
 Communication tools including announcements, forums, and messaging
 Reporting and analytics for tracking progress
 Customizable settings and integrations
+
 1.3. System Requirements
 SabiLearn is a web-based platform accessible through standard web browsers. Users need a reliable internet connection and a modern browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge for an optimal experience.
 
